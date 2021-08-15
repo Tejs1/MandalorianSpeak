@@ -15,6 +15,12 @@ textarea {
   background: none;
   background-color: rgba(255, 255, 255, 0.294);
 }
+
+::placeholder {
+  color: white;
+  opacity: 1;
+}
+
 h1 {
   letter-spacing: 3px;
   margin: 0rem 1rem;
